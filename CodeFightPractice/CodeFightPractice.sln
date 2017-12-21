@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "areFollowingPatterns", "are
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "groupingDishes", "groupingDishes\groupingDishes.vcxproj", "{28DF2545-2478-47FF-B7FB-BC4E8F905032}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "containsDuplicates", "containsDuplicates\containsDuplicates.vcxproj", "{678F26B6-EE93-48A6-A1C8-F89078CBCC12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{28DF2545-2478-47FF-B7FB-BC4E8F905032}.Release|x64.Build.0 = Release|x64
 		{28DF2545-2478-47FF-B7FB-BC4E8F905032}.Release|x86.ActiveCfg = Release|Win32
 		{28DF2545-2478-47FF-B7FB-BC4E8F905032}.Release|x86.Build.0 = Release|Win32
+		{678F26B6-EE93-48A6-A1C8-F89078CBCC12}.Debug|x64.ActiveCfg = Debug|x64
+		{678F26B6-EE93-48A6-A1C8-F89078CBCC12}.Debug|x64.Build.0 = Debug|x64
+		{678F26B6-EE93-48A6-A1C8-F89078CBCC12}.Debug|x86.ActiveCfg = Debug|Win32
+		{678F26B6-EE93-48A6-A1C8-F89078CBCC12}.Debug|x86.Build.0 = Debug|Win32
+		{678F26B6-EE93-48A6-A1C8-F89078CBCC12}.Release|x64.ActiveCfg = Release|x64
+		{678F26B6-EE93-48A6-A1C8-F89078CBCC12}.Release|x64.Build.0 = Release|x64
+		{678F26B6-EE93-48A6-A1C8-F89078CBCC12}.Release|x86.ActiveCfg = Release|Win32
+		{678F26B6-EE93-48A6-A1C8-F89078CBCC12}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
