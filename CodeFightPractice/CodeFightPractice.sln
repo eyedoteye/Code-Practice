@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "areFollowingPatterns", "areFollowingPatterns\areFollowingPatterns.vcxproj", "{38C6AF82-8B6B-4EA3-86DE-4B5AF89F286A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "groupingDishes", "..\groupingDishes\groupingDishes\groupingDishes.vcxproj", "{28DF2545-2478-47FF-B7FB-BC4E8F905032}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "groupingDishes", "groupingDishes\groupingDishes.vcxproj", "{28DF2545-2478-47FF-B7FB-BC4E8F905032}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -36,6 +36,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {90576DEB-C537-4F36-9366-5DF3773EDDF5}
+		SolutionGuid = {0E61E5DA-FD96-4D0C-9B98-B808E1C0193C}
 	EndGlobalSection
 EndGlobal
